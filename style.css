@@ -64,9 +64,31 @@ body{
 .card_head{
     display: flex;
     align-items: center;
+    gap: 5px;
+    margin-bottom: 10px;
 }
 
-.heading_first{
-    
+img{
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid white;
 }
+
+.white{
+    color: white;
+}
+
+.white-opas{
+    color: white;
+    opacity: 0.4;
+    font-size: 11px;
+}
+
+.white-intro{
+    color: white;
+    margin-bottom: 10px;
+    font-size: 15.5px;
+    max-width: 440px;
+}
+
 
