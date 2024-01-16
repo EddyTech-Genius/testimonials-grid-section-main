@@ -32,6 +32,10 @@ body {
 }
 
 .card_first {
+  background-position: 80% 0;
+  background-repeat: no-repeat;
+  background-image: url(images/bg-pattern-quotation.svg);
+  position: relative;
   grid-column: 1/3;
   background-color: rgb(115, 63, 200);
 }
@@ -78,7 +82,8 @@ img {
 .white-opas {
   color: white;
   opacity: 0.4;
-  font-size: 11px;
+  font-size: 11.5px;
+  line-height: 130%;
 }
 
 .white-intro {
