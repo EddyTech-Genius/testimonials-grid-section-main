@@ -83,7 +83,7 @@ img {
 
 .white-intro {
   color: white;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-size: 15.5px;
   max-width: 440px;
 }
@@ -91,4 +91,11 @@ img {
 .black-opas {
   opacity: 0.4;
   font-size: 11px;
+}
+
+.black-intro {
+  margin-bottom: 15px;
+  font-size: 15.5px;
+  max-width: 150px;
+  font-weight: 900;
 }
